@@ -1,0 +1,8 @@
+{
+  "name": "Hybrid Power Mode",
+  "description": "Auto Hybrid Power Mode in GNOME",
+  "uuid": "gnome-hybrid-power-mode@ls-myron",
+  "shell-version": [
+    "46"
+  ]
+}
